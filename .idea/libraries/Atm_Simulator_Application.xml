@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Atm_Simulator_Application">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Atm_Simulator_Application.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
