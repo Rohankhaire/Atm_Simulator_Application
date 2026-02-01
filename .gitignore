@@ -6,4 +6,6 @@
 .idea/
 *.iml
 *.class
+node_modules
+/web/dist/
 package-lock.json
